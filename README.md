@@ -114,7 +114,7 @@ Here I leave a few videos that show you how the code works.
 ### Video 01 Default mode
 [![Video 01: Default mode](https://img.youtube.com/vi/QisuGCfPqGo/0.jpg)](https://youtu.be/QisuGCfPqGo)
 
-### Video 02 Other modes
+### Video 02 Other modes and text size
 [![Video 02: Other modes](https://img.youtube.com/vi/rH11AWEgVDI/0.jpg)](https://youtu.be/rH11AWEgVDI)
 
 ### Image 1
