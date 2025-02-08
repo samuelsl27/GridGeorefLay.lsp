@@ -118,7 +118,16 @@ Here I leave a few videos that show you how the code works.
 ### Video 02 Other modes
 [![Video 02: Other modes](https://img.youtube.com/vi/rH11AWEgVDI/0.jpg)](https://youtu.be/rH11AWEgVDI)
 
+### Image 1
+![Ejemplo 1](Resources/Ej_1.png)
 
+### Image 2
+![Ejemplo 1](Resources/Ej_2.png)
 
+### Image 3
+![Ejemplo 1](Resources/Ej_3.png)
+
+### Image 4
+![Ejemplo 1](Resources/Ej_3_detalle.png)
 
 
