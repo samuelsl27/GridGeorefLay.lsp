@@ -111,13 +111,12 @@ When running the command `GRIDGEOREFLAY` in AutoCAD, the script will guide you t
 ## Videos and Example Images
 
 Here I leave a few videos that show you how the code works.
-### Videos
 
-#### Video 01
-[![Video 01: Default mode](https://img.youtube.com/vi/rH11AWEgVDI/0.jpg)](https://youtu.be/rH11AWEgVDI)
+### Video 01 Default mode
+[![Video 01: Default mode](https://img.youtube.com/vi/QisuGCfPqGo/0.jpg)](https://youtu.be/QisuGCfPqGo)
 
-#### Video 02
-[![Video 02: Other modes](https://img.youtube.com/vi/QisuGCfPqGo/0.jpg)](https://youtu.be/QisuGCfPqGo)
+### Video 02 Other modes
+[![Video 02: Other modes](https://img.youtube.com/vi/rH11AWEgVDI/0.jpg)](https://youtu.be/rH11AWEgVDI)
 
 
 
