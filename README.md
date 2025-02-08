@@ -108,16 +108,18 @@ When running the command `GRIDGEOREFLAY` in AutoCAD, the script will guide you t
 2. Open BricsCAD or AutoCAD and load the file using the `APLOAD` command.
 3. Run the command `GRIDGEOREFLAY` to launch the script.
 
-## Adding Videos and Example Images
+## Videos and Example Images
 
-To help users better understand the workflow, you can add explanatory videos and example images. Upload your media files to a hosting service (e.g., YouTube, Dropbox, Google Drive) and include them in this document as follows:
+Here I leave a few videos that show you how the code works.
+### Videos
 
-### Embedding Videos
+#### Video 01
+[![Video 01: Default mode](https://img.youtube.com/vi/rH11AWEgVDI/0.jpg)](https://youtu.be/rH11AWEgVDI)
 
-```markdown
-[![Explanatory Video 1](https://img.youtube.com/vi/VIDEO_ID1/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID1](https://youtu.be/QisuGCfPqGo))
+#### Video 02
+[![Video 02: Other modes](https://img.youtube.com/vi/QisuGCfPqGo/0.jpg)](https://youtu.be/QisuGCfPqGo)
 
-[![Explanatory Video 2](https://img.youtube.com/vi/VIDEO_ID2/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID2](https://youtu.be/rH11AWEgVDI))
+
 
 
 
