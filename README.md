@@ -1,6 +1,5 @@
 # GridGeorefLay.lsp
-# GridGeorefLay_v2_4.lsp
-
+![Ejemplo 1](Resources/Ej_1.png)
 ## Description
 
 This AutoLISP script creates a georeferenced grid in BricsCAD or AutoCAD by drawing coordinate markers and labels along the borders of a selected viewport. It automatically formats numbers (using spaces as thousand separators) and can either use default settings or prompt the user for manual inputs to control the appearance and positioning of the grid elements.
